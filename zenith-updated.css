@@ -1,7 +1,7 @@
 /* IMPORT CORE THEME */
 @import url('https://azlen.github.io/roam-themes/core.css');
 
-@import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {	
     --page-width: 616px;
